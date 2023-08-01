@@ -1,5 +1,6 @@
 #include <main.h>
-int _putchar(char c)
+int main(void)
 {
-	return (write(0, &c, 0));
+	printf("%s\n"_putchar);
+	return(o)
 }
